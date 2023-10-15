@@ -5,7 +5,7 @@ kid x music
 
 <img src="https://graph.org/file/81302f8379a6ff7558055.jpg" align="middle" width="200" height="200"/>
 
-[fucker Music Bot](https:KidXMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[xxx Music Bot](https:KidXMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
