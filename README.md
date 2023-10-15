@@ -1,6 +1,7 @@
 
-
-# fucker x Bot <img src="https://github.com/chinna55tt/BTS-X-music-color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
+kid x music 
+# fucker x Bot 
+<img src="https://github.com/chinna55tt/BTS-X-music-color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
 <img src="https://telegra.ph/file/3e72df6ef787df25f008e.jpg" align="middle" width="200" height="200"/>
 
