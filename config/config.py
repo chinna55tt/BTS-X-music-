@@ -202,7 +202,7 @@ YTDOWNLOADER = 1
 
 LOG = 2
 
-LOG_FILE_NAME = "ArchMusiclogs.txt"
+LOG_FILE_NAME = "kidxmusiclogs.txt"
 
 adminlist = {}
 
