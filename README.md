@@ -3,7 +3,7 @@ kid x music
 # fucker x Bot 
 <img src="https://graph.org/file/6c340b62737f77817c09d.jpgcolor=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
-<img src="https://telegra.ph/file/3e72df6ef787df25f008e.jpg" align="middle" width="200" height="200"/>
+<img src="https://graph.org/file/81302f8379a6ff7558055.jpg" align="middle" width="200" height="200"/>
 
 [fucker Music Bot](https:KidXMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
